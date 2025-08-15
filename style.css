@@ -1,1 +1,52 @@
-
+body{
+  background-color:lightblue;
+}
+img{
+  height:60px;
+}
+.image1{
+  order:1;
+}
+.header{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items:center;
+  color: #0827ff;
+  font-family: garamond;
+  font-size: 30px;
+}
+.core{
+  color:#00a2ff;
+}
+.founder{
+  height:45px;
+}
+.bare{
+  height:40px;
+}
+.cores{
+  height:80px;
+}
+.sustain{
+  height:55px;
+}
+h1{
+  color:#0d0d86;
+  font-family: cursive;
+}
+.tiny{
+  height:20px;
+}
+.patrick{
+  height:90px;
+}
+h3{
+  color:#0d0d86;
+  font-family: cursive;
+}
+red{
+  color:red;
+  font-family: cursive;
+}
